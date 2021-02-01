@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;1,600;1,700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap");
+
+.btn {
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.452);
+  border-radius: 100px;
+}
+b {
+  background: -webkit-linear-gradient(45deg, #e9dd00, #0fd850);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.dropdown-menu {
+  border-radius: 30px;
+  border: 1px solid transparent;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.452);
+}
+.card_product_h1_1 {
+  background: -webkit-linear-gradient(45deg, #e9dd00, #0fd850);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card_icon_product_1 {
+  width: 50px;
+  height: 50px;
+  border-radius: 100px;
+  background: linear-gradient(45deg, #e9dd00, #0fd850);
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  box-shadow: 0px 0px 20px rgba(119, 119, 119, 0.575);
+}
+.card_product {
+  width: 18rem !important;
+}
+
+.carousel-inner .carousel-item img {
+  width: 14rem !important;
+  height: 150px;
+  object-fit: scale-down;
+}
+.card{
+  border: 1px solid transparent !important;
+}
+.card-title {
+  background: -webkit-linear-gradient(45deg, #e9dd00, #0fd850);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
